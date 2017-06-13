@@ -25,5 +25,5 @@ At the end there must be an empty string.
 ```
 sleep 1m - delay (in minutes)
 ```
-7. Run start.sh
+7. Run ```sh start.sh```
 
