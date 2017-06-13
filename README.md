@@ -21,4 +21,9 @@ chat_id = USERID #ID of Telegram user to whom data will be sent. You can get it 
 5. Edit ```ids.txt```.
 Each steamID must start with a new line. 
 At the end there must be an empty string.
-6. Run start.sh (soon)
+6. Edit start.sh
+```
+sleep 1m - delay (in minutes)
+```
+7. Run start.sh
+
